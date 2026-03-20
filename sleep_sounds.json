@@ -2,27 +2,153 @@
   "sleep_sounds": [
     {
       "id": "sound_01",
-      "title": "Relaxing Music Vol.9",
-      "url_music": "https://pub-b9ae4612ff165c29b02e1b11a3350f4e.r2.dev/relaxing-music-vol9.mp3",
-      "url_image": "https://pub-b9ae4612ff165c29b02e1b11a3350f4e.r2.dev/relaxing-music-vol9.jpg"
+      "title": "Soothing Deep Sleep Music 432 Hz",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/alaminhossain1989-soothing-deep-sleep-music-432-hz-191708.mp3",
+      "url_image": ""
     },
     {
       "id": "sound_02",
-      "title": "Silent Dream",
-      "url_music": "https://pub-b9ae4612ff165c29b02e1b11a3350f4e.r2.dev/silent-dream.mp3",
-      "url_image": "https://pub-b9ae4612ff165c29b02e1b11a3350f4e.r2.dev/silent-dream.jpg"
+      "title": "Relaxing Sound to sleep",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/asmrsoundsforyou-relaxing-sound-to-sleep-263614.mp3",
+      "url_image": ""
     },
     {
       "id": "sound_03",
-      "title": "Gilded Silence (Zen Lofi)",
-      "url_music": "https://pub-b9ae4612ff165c29b02e1b11a3350f4e.r2.dev/gilded-silence.mp3",
-      "url_image": "https://pub-b9ae4612ff165c29b02e1b11a3350f4e.r2.dev/gilded-silence.jpg"
+      "title": "Raga Bihag Bansuri Flute Indian Classical Sleep Music 432Hz",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/bipul281b-raga-bihag-bansuri-flute-indian-classical-sleep-music-432hz-497961.mp3",
+      "url_image": ""
     },
     {
       "id": "sound_04",
-      "title": "Water Harmony Ambisonic Nature",
-      "url_music": "https://pub-b9ae4612ff165c29b02e1b11a3350f4e.r2.dev/water-harmony.mp3",
-      "url_image": "https://pub-b9ae4612ff165c29b02e1b11a3350f4e.r2.dev/water-harmony.jpg"
+      "title": "Gilded Silence (Zen Lofi)",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/cfl_turningpages-gilded-silence-zen-lofi-469317.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_05",
+      "title": "Relaxing sleep music with soft ambient rain",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/desifreemusic-relaxing-sleep-music-with-soft-ambient-rain-369762.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_06",
+      "title": "Sleep-inducing ambient music with gentle ocean waves",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/desifreemusic-sleep-inducing-ambient-music-with-gentle-ocean-waves-370141.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_07",
+      "title": "Free Soul Tibetan Style Bowl Sound Healing",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/kalsstockmedia-free-soul-tibetan-style-bowl-sound-healing-485737.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_08",
+      "title": "The Moon's Silent Cry",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/lokenwarrior-the-moonx27s-silent-cry-493883.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_09",
+      "title": "Water Harmony Ambisonic Nature Soundscapes for Tinnitus Relief",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/meditativetiger-water-harmony-ambisonic-nature-soundscapes-for-tinnitus-relief-363337.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_10",
+      "title": "Dark atmosphere with rain",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/milagrosgomez-dark-atmosphere-with-rain-352570.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_11",
+      "title": "Piano relaxation and meditation",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/minhquang123-piano-thu-gian-thien-inh-434542.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_12",
+      "title": "PureBinaural – 16 Hz Beta Binaural Beats with White Noise",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/purebinaural-purebinaural-16-hz-beta-binaural-beats-with-white-noise-484860.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_13",
+      "title": "PureBinaural – 2.5 Hz Delta Binaural Beats with Rain",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/purebinaural-purebinaural-25-hz-delta-binaural-beats-with-rain-457283.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_14",
+      "title": "PureBinaural – 40 Hz Gamma Binaural Beats with White Noise",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/purebinaural-purebinaural-40-hz-gamma-binaural-beats-with-white-noise-484861.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_15",
+      "title": "Sleep Music Vol.16",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/relaxingtime-sleep-music-vol16-195422.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_16",
+      "title": "Sleep Music Vol.15",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/u_xg7ssi08yr-sleep-387304.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_17",
+      "title": "Sleep Music Vol.14",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/u_xg7ssi08yr-sleep-_3-387307.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_18",
+      "title": "Sea",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/uchihadace1st-sea-396080.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_19",
+      "title": "Ocean Breath (432 Hz)",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/vividillustrate-ocean-breath-432-hz-366543.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_20",
+      "title": "Flute music with rain ambiance",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/wr_ambiance-flute-music-with-rain-ambiance-370521.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_21",
+      "title": "Silent Dream",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/zt_oscar-silent-dream-239763.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_22",
+      "title": "Sleep Music Vol.4",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/relaxingtime-sleep-music-vol4-173980.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_23",
+      "title": "Sleep Music Vol.9",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/relaxingtime-relaxing-music-vol9-127992.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_24",
+      "title": "Natural sleep background with jungle ambience",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/desifreemusic-natural-sleep-background-with-jungle-ambience-370139.mp3",
+      "url_image": ""
+    },
+    {
+      "id": "sound_25",
+      "title": "Dreamy Tranquility:Soothing 528 Hz Theta Sound Waves",
+      "url_music": "https://pub-c53eaf0d5a554a778372a088b4893ea0.r2.dev/cryptionax-dreamy-tranquilitysoothing-528-hz-theta-sound-waves-316843.mp3",
+      "url_image": ""
     }
   ]
 }
