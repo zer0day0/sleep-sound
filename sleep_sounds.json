@@ -1,0 +1,28 @@
+{
+  "sleep_sounds": [
+    {
+      "id": "sound_01",
+      "title": "Relaxing Music Vol.9",
+      "url_music": "https://pub-b9ae4612ff165c29b02e1b11a3350f4e.r2.dev/relaxing-music-vol9.mp3",
+      "url_image": "https://pub-b9ae4612ff165c29b02e1b11a3350f4e.r2.dev/relaxing-music-vol9.jpg"
+    },
+    {
+      "id": "sound_02",
+      "title": "Silent Dream",
+      "url_music": "https://pub-b9ae4612ff165c29b02e1b11a3350f4e.r2.dev/silent-dream.mp3",
+      "url_image": "https://pub-b9ae4612ff165c29b02e1b11a3350f4e.r2.dev/silent-dream.jpg"
+    },
+    {
+      "id": "sound_03",
+      "title": "Gilded Silence (Zen Lofi)",
+      "url_music": "https://pub-b9ae4612ff165c29b02e1b11a3350f4e.r2.dev/gilded-silence.mp3",
+      "url_image": "https://pub-b9ae4612ff165c29b02e1b11a3350f4e.r2.dev/gilded-silence.jpg"
+    },
+    {
+      "id": "sound_04",
+      "title": "Water Harmony Ambisonic Nature",
+      "url_music": "https://pub-b9ae4612ff165c29b02e1b11a3350f4e.r2.dev/water-harmony.mp3",
+      "url_image": "https://pub-b9ae4612ff165c29b02e1b11a3350f4e.r2.dev/water-harmony.jpg"
+    }
+  ]
+}
